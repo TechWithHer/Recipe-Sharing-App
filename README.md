@@ -1,9 +1,9 @@
-# 🚀 <Project Recipe Sharing App>
+# Project Recipe Sharing App
 > An SPA- Single Page Application not Web Application. 
 
 ---
 
-## 👀 For Recruiters / Hiring Managers
+## 👀 Overview
 - **Problem Solved:** <1–2 lines>
 - **Impact:** <metrics / simulated outcomes>
 - **Tech Stack:** <key tools only>
