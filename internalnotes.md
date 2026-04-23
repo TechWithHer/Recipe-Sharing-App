@@ -1,3 +1,3 @@
-- Router 53 Setup
+- Router 53 Setup on AWS
 
-- Subdomain Delegation
+- Subdomain Delegation by adding 4 NS provided by AWS  
